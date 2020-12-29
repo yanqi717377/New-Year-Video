@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# 跨年的Video计划
 
-You can use the [editor on GitHub](https://github.com/yanqi717377/newyeareveplan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 玩法
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+共同拍一个视频, 每个参与者需回答几个问题. 
 
-### Markdown
+参与全程会被录下来留作纪念.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 流程
 
-```markdown
-Syntax highlighted code block
+1. 每个参与者提前写下一定数量的问题.
+2. 所有人将问题放进一个黑盒子里.
+3. 参与者按照次序抽取盒子里的问题.
+4. 在当前次序中抽到问题的参与者回答问题.
+5. 下一个参与者抽取盒子并重复3-5流程.
 
-# Header 1
-## Header 2
-### Header 3
+## 准备问题的Tips
 
-- Bulleted
-- List
+1. 每人需提前准备三个非指定的问题(即抽到问题的人回答), 允许添加一个指定的问题(即指定某一个参加者回答).
+2. 希望把问题在回答之前保密.
+3. 问题需要与2020年的经历有关, 可以展望2021年的未来.
+4. 每个问题长度大约为30-90秒.
+5. 问题不应当以整蛊为目的, 希望问题友善, 轻松.
 
-1. Numbered
-2. List
+## 回答问题的Tips
 
-**Bold** and _Italic_ and `Code` text
+1. 回答问题请根据自身真实经验回答.
+2. 每个问题的回答时长为30-90秒.
+3. 回答时希望内容积极健康.
+4. 当自己抽到的问题卷中有指定问题时请将问题纸传给被指定的参与者.
 
-[Link](url) and ![Image](src)
-```
+## 注意事项
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanqi717377/newyeareveplan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. 所有人都将获得一份视频的拷贝, 每个人获得的视频可能会有轻微的不同. 参与者都同意视频不允许传播上网.
+2. 视频每人拥有自己回答问题部分的版权, 但其余参与者同意永久分享自己回答部分的版权使用权.
